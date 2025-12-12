@@ -14,6 +14,8 @@ Python, SQL, AWS (S3, EC2, RDS), Linux and Github
 
 ---
 ### A bit about me
-•	Sport is my favourite hobby 
+•	Sport is my favourite hobby.
+
 •	I love learning new things.
+
 •	My favourite anime is Attack on Titan
